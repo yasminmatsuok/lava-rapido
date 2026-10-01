@@ -16,15 +16,10 @@ Site de um lava-rápido feito com **React + Vite + TypeScript + Tailwind CSS + R
 | -------------------- | ------ |
 | Nome do Integrante 1 | 000001 |
 | Nome do Integrante 2 | 000002 |
-| Nome do Integrante 3 | 000003 |
-| Nome do Integrante 4 | 000004 |
-| Nome do Integrante 5 | 000005 |
+
 
 > Os mesmos nomes, RMs e fotos aparecem na página **Sobre** (arquivo `src/data/integrantes.ts`).
 
-## 🔗 Link do projeto no GitHub
-
-https://github.com/vinisl2510-sudo/ParaYasmin
 
 ## 📄 Páginas
 
